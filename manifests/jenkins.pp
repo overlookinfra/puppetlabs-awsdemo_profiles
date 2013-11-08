@@ -1,4 +1,4 @@
-class profiles::jenkins {
+class awsdemo_profiles::jenkins {
   include ::jenkins
   class { 'java':
     distribution => 'jdk',

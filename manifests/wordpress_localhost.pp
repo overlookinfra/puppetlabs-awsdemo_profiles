@@ -1,4 +1,4 @@
-class profiles::wordpress_localhost {
+class awsdemo_profiles::wordpress_localhost {
   # This class creates a Wordpress Install setup to listen on localhost
   # of a node...which is good for quick-provisioning examples with Vagrant
   # (hint hint)

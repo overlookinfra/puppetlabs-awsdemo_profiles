@@ -1,11 +1,11 @@
-name    'glarizza-profiles'
-version '0.0.5'
-source 'https://github.com/glarizza/puppet-profiles'
-author 'Gary Larizza'
+name    'puppetlabs-awsdemo_profiles'
+version '0.1.0'
+source 'https://github.com/puppetlabs/puppetlabs-awsdemo_profiles'
+author 'Gary Larizza / Puppet Labs'
 license 'Apache2'
 summary 'Puppet module to manage "profiles" and higher-level abstractions'
 description 'Manages configurations through the use of utility modules'
-project_page 'https://github.com/glarizza/puppet-profiles'
+project_page 'https://github.com/puppetlabs/puppetlabs-awsdemo_profiles'
 
 ## Add dependencies, if any:
 dependency 'hunner/wordpress', '>= 0.4.0'
